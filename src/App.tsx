@@ -7,7 +7,7 @@ import Footer from './Footer';
 export const audioTracks = [
   {
     name: "Digital Dreams",
-    artist: "Sonic Universe",
+    artist: "MELSCALE Universe",
     album: "Electronic Nights",
     duration: "4:32",
     url: "/audios/digital-dreams-291145.mp3", 
@@ -459,7 +459,7 @@ function App() {
           
           <h1 className="text-7xl md:text-9xl font-black mb-8 leading-none">
             <span className="block bg-gradient-to-r from-white via-blue-200 to-purple-200 bg-clip-text text-transparent animate-pulse-slow">
-              SONIC
+              MELSCALE
             </span>
             <span className="block text-5xl md:text-7xl bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mt-4">
               UNIVERSE
